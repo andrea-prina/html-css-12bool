@@ -1,0 +1,10 @@
+[class*="col-"], .col{
+   background-color: #006CFA;
+   color: white;
+   border: 1px solid white;
+}
+
+.nested-col {
+   background-color: #00E165;
+   border: 1px solid #006CFA;
+}
